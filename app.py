@@ -37,7 +37,7 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    " Crypto Dashboard - Comparing sales across three stores": "",
+    " Crypto Dashboard - Real-time Cryptocurrency Data Analysis": "",
     " Income and Expense Tracker - Web app with NoSQL database": "",
     " Blog - Built Using Djanog": "",
     " NewsScraper - Built Using Python, BeautifulSoup, Django": "",

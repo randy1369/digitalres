@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* {font-family: 'Readex Pro';}
+
+/* styles.css */
+
+.subheader {
+    color: #d33682;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.title {
+    color: #d33682;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.download-button {
+    background-color: #d33682;
+    color: #f5eeee;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.download-button:hover {
+    background-color: #700e0e;
+}
+
+/* Add more CSS rules as needed */
+
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #d33636 !important;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+table,tr,th,thead,tbody {
+    color: aliceblue;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+span{
+    color: #9e9fbe;
+}
+
+p {
+    color: aliceblue;
+}
+
+strong{
+    color: #9e9fbe;
+}

@@ -38,7 +38,7 @@ SOCIAL_MEDIA = {
 
 PROJECTS = {
     " Crypto Dashboard - Real-time Cryptocurrency Data Analysis": "https://cryptopricetracker-009.streamlit.app/",
-    " Portfolio Website - Developed using Django, Html, CSS": "",
+    " Portfolio Website - Developed using Django, Html, CSS": "https://rox009.pythonanywhere.com/",
     " Blog - Built Using Djanog, Bootstrap5, with CRUD functionality and responsive Design": "https://rox006.pythonanywhere.com/",
     " GithubScraper - Built Using Python, BeautifulSoup, Streamlit": "https://top-repo-scraper.streamlit.app/",
     " Terminal Portfolio Site - Developed using Js, html, css" : "https://randy1369.github.io/rTerminal/",

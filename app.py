@@ -8,7 +8,7 @@ from PIL import Image
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "Arthashastra.pdf"
+resume_file = current_dir / "assets" / "ROX.pdf"
 
 
 
@@ -32,15 +32,16 @@ EMAIL = "johantheunknown@gmail.com"
 SOCIAL_MEDIA = {
     "Youtube" : "https://youtube.com",
     "LinkedIn": "https://linkedin.com",
-    "GitHub" : "https:github.com",
+    "GitHub" : "https://github.com/randy1369?tab=repositories",
     "Twitter" : "https://twitter.com",
 }
 
 PROJECTS = {
-    " Crypto Dashboard - Real-time Cryptocurrency Data Analysis": "",
-    " Income and Expense Tracker - Web app with NoSQL database": "",
-    " Blog - Built Using Djanog": "",
-    " NewsScraper - Built Using Python, BeautifulSoup, Django": "",
+    " Crypto Dashboard - Real-time Cryptocurrency Data Analysis": "https://cryptopricetracker-009.streamlit.app/",
+    " Portfolio Website - Developed using Django, Html, CSS": "",
+    " Blog - Built Using Djanog, Bootstrap5, with CRUD functionality and responsive Design": "https://rox006.pythonanywhere.com/",
+    " GithubScraper - Built Using Python, BeautifulSoup, Streamlit": "https://top-repo-scraper.streamlit.app/",
+    " Terminal Portfolio Site - Developed using Js, html, css" : "https://randy1369.github.io/rTerminal/",
 }
 
 #-------------------------------------------------------------------------------------------------------------------
